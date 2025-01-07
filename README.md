@@ -45,30 +45,10 @@ Installer Qt via le lien sur le site officiel en choisissant la version de base.
 
 -Taper la commande suivante sous le terminal. Ceci installera les outils et librairies nécessaires à faire
 fonctionner QT sous linux.
-``` sudo apt-get -y install build-essential openssl libssl-dev libssl1.0 libgl1-mesa-dev
+```
+sudo apt-get -y install build-essential openssl libssl-dev libssl1.0 libgl1-mesa-dev
 libqt5x11extras5 '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev
 libxkbcommon-dev libxkbcommon-x11-dev ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
