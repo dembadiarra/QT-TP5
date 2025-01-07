@@ -12,7 +12,7 @@ Ce projet vous guide à travers les étapes nécessaires pour créer et manipule
         -id : clé primaire, de type INT.
         -prénom : de type VARCHAR.
         -nom : de type VARCHAR.
-
+---
  2.  Ajoutez deux personnes : Karim BENZEMA, et Antoine GRIEZMANN mais avant on crée un database "jeu",
 qu'on va ensuite utiliser.
 
@@ -32,13 +32,13 @@ INSERT INTO jeu (prenom, nom) VALUES
 ('Karim', 'BENZEMA'),
 ('Antoine', 'GRIEZMANN');
 ```
-
+---
 #   II. Accès à la BDD
 
 1. Installation de Qt sous linux :
 Installer Qt via le lien sur le site officiel en choisissant la version de base.
 ```https://www.qt.io/download-qt-installer```
-
+---
 2. Installation du driver MySQL :
 -Taper la commande suivante sous le terminal.
 ``` 
