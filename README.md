@@ -55,5 +55,8 @@ libxkbcommon-dev libxkbcommon-x11-dev
 ```
 #    III. Mise en œuvre d’un affichage graphique des requêtes sur la BDD.
 
+[Regarder la vidéo](https://youtu.be/qVdhPUI1Fio?si=u2CGOEuYeMxKlewC)
+
+
 
 
